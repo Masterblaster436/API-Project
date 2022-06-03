@@ -28,3 +28,27 @@
 #test = response_API.json()
 #for text in test:
   #print(f"{text}")
+
+########################################################################
+
+#Print the text in the verse
+#print(f"{data}")
+
+
+  
+#User picks one gospel from the list 
+#def gospels():
+  #print("Please type in the name of a gospel:")
+  #print("")
+  #print("Matthew")
+  #print("Mark")
+  #print("Luke")
+  #print("John")
+  #print("")
+  
+#gospels()
+
+#Matthew = 1
+#Mark = 2
+#Luke = 3
+#John = 4

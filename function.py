@@ -138,3 +138,12 @@ def list_of_old_books():
   print("8. Books 36 to 40")
   print("9. Books 41 to 46")
   print("")
+
+def list_of_new_books():
+  print("1. Books 1 to 5")
+  print("2. Books 6 to 10")
+  print("3. Books 11 to 15")
+  print("4. Books 16 to 21")
+  print("5. Books 22 to 28")
+  print("")
+
